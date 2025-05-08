@@ -9,7 +9,7 @@ int main() {
 	
 	cout << "Un tren fuera de control se dirige hacia cinco personas en la via principal.\n";
 	cout << "hay una posibilidad de accionar una palanca para desviarlo a una via secundaria.\n";
-	cout << "¿Que decides hacer?\n";
+	cout << "Â¿Que decides hacer?\n";
 	cout << "1. No hacer nada.\n";
 	cout << "2. Accionar la palanca pero hay un descocnosido.\n";
 	cout << "3. Accionar la palanca pero hay un animal\n";
@@ -33,6 +33,6 @@ int main() {
 	else if (decision == 5) {
 		cout << "el tren paso sobre tu Mama\n";
 	} else {
-		cout << "Decision invalida. El tren sigue su curso...";
+		cout << "Decision invalida. El tren sigue su curso.";
 	}
 }
